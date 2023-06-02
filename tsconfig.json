@@ -18,7 +18,7 @@
     "allowJs": true,
     "paths": {"~/*": ["app/ui/*"]},
     "typeRoots": ["./app/ui/types/custom.d.ts"],
-    "types": ["vite/client", "vitest/globals"]
+    "types": ["vite/client"]
   },
   "include": ["./index.ts"]
 }
